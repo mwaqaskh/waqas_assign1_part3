@@ -77,9 +77,16 @@ docker rm reverent_blackwell
 
 # step 14 Verify that the "index.html" and "about.html" files are still available in the "my_volume"
 Done
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/6669ef90-c51f-492b-ac36-a4b3d609af52)
+
 # Step 15 Cleanup: Remove the "my_volume" volume. (2 marks)
 ```
 docker volume rm my_volume
 ```
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/17f6f1c7-a1e6-4839-a421-70e949ee25a2)
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/9df615af-115d-4f69-b5ce-c8b2825a992b)
+
 # step 16 Create a README.md file 
 Done
