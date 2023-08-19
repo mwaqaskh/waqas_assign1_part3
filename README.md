@@ -59,4 +59,7 @@ docker cp about.html reverent_blackwell:/usr/local/apache2/htdocs
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/28ddaa2f-e8dd-484a-8771-ba13768e44ea)
 
+#Step 12: Verify that the "about.html" file is accessible on your host machine at http://localhost:8081/about.html
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/814f21bb-231e-4680-bd47-eb0ffa80c506)
 
