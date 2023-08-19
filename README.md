@@ -26,3 +26,11 @@ docker run -v my_volume:/usr/share/nginx/html -p 8080:80 nginx
 # Step 6: Verify that the "index.html" file is accessible on your host machine at http://localhost:8080. (2 marks)
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/0c33065e-e124-4347-ba37-f3a4f6ace4fe)
+
+# Step 7: Stop and remove the container
+```
+docker stop awesome_cartwright
+```
+```
+docker rm awesome_cartwright
+```
