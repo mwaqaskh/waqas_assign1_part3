@@ -31,6 +31,9 @@ docker run -v my_volume:/usr/share/nginx/html -p 8080:80 nginx
 ```
 docker stop awesome_cartwright
 ```
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/479a0b56-e026-481f-aacb-19e3f40fe9ad)
+
 ```
 docker rm awesome_cartwright
 ```
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/93723ddf-fcad-467c-9f97-49e80f51432a)
