@@ -44,3 +44,9 @@ docker run -v my_volume:/usr/local/apache2/htdocs -p 8081:80 httpd
 ```
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/f8a504cb-3833-41c8-9328-385d1cee3af1)
  
+# Step 9: "httpd" default page is accessible on http://localhost:8081
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/b6e06206-a8d0-4a9f-97d9-f9873ca4896a)
+
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/222f006a-ba62-4f4b-a771-4bc15b2303fc)
