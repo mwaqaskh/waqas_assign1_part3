@@ -22,3 +22,7 @@ docker run -v my_volume:/usr/share/nginx/html -p 8080:80 nginx
 # Step 5: Copied the "index.html" file from host machine to the "my_volume" volume using the "docker cp" command.
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/bf40faf6-3d00-417a-97c3-7e913ec1002e)
+
+# Step 6: Verify that the "index.html" file is accessible on your host machine at http://localhost:8080. (2 marks)
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/0c33065e-e124-4347-ba37-f3a4f6ace4fe)
