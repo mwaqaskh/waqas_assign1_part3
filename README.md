@@ -63,7 +63,7 @@ docker cp about.html reverent_blackwell:/usr/local/apache2/htdocs
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/814f21bb-231e-4680-bd47-eb0ffa80c506)
 
-Step 13: Stop and remove the container
+# Step 13: Stop and remove the container
 ```
 docker stop reverent_blackwell
 ```
@@ -74,3 +74,12 @@ docker rm reverent_blackwell
 ```
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/1991a15a-6078-4b01-bc90-3ac51e792bff)
+
+# step 14 Verify that the "index.html" and "about.html" files are still available in the "my_volume"
+Done
+# Step 15 Cleanup: Remove the "my_volume" volume. (2 marks)
+```
+docker volume rm my_volume
+```
+# step 16 Create a README.md file 
+Done
