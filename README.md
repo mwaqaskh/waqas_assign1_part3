@@ -50,3 +50,13 @@ docker run -v my_volume:/usr/local/apache2/htdocs -p 8081:80 httpd
 
 
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/222f006a-ba62-4f4b-a771-4bc15b2303fc)
+
+Step 10: Created a new file named "about.html"
+Step 11: Copy the "about.html" file from host machine to the "my_volume"
+```
+docker cp about.html reverent_blackwell:/usr/local/apache2/htdocs 
+```
+
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/28ddaa2f-e8dd-484a-8771-ba13768e44ea)
+
+
