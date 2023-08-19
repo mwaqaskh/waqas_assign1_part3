@@ -37,3 +37,10 @@ docker stop awesome_cartwright
 docker rm awesome_cartwright
 ```
 ![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/93723ddf-fcad-467c-9f97-49e80f51432a)
+
+# Step 8: Created a new Docker container using the "httpd" image and mount the "my_volume" volume to it at "/usr/local/apache2/htdocs"
+```
+docker run -v my_volume:/usr/local/apache2/htdocs -p 8081:80 httpd
+```
+![image](https://github.com/mwaqaskh/waqas_assign1_part3/assets/39801941/f8a504cb-3833-41c8-9328-385d1cee3af1)
+ 
